@@ -1,3 +1,17 @@
 .container div {
-    border: 1px black solid;
+    border: 1px white solid;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.one {
+    
+}
+

@@ -12,6 +12,14 @@
 }
 
 .one {
-    
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+
+.two {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.three {
+    font-family: sans-serif;
 }
 

@@ -8,7 +8,7 @@
     /* grid-template-rows:
         grid-auto-rows:
         grid-auto-columns */
-        
+
     background-color: black;
     color: white;
     margin: 10px;
@@ -17,13 +17,19 @@
 
 .one {
     font-family:'Arial Narrow Bold', sans-serif;
+    grid-column: span 3;
 }
 
 .two {
     font-family: Georgia, Times, 'Times New Roman', serif;
+    grid-column: span 2;
 }
 
 .three {
     font-family: sans-serif;
+}
+
+.four {
+    grid-column: span 3;
 }
 

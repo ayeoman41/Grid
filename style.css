@@ -33,3 +33,11 @@
     grid-column: span 3;
 }
 
+.contain div {
+    border: 2px solid pink;
+    background-color: aqua;
+}
+
+.uno {
+
+}

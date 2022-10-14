@@ -36,6 +36,7 @@
 .contain div {
     border: 2px solid pink;
     background-color: aqua;
+    text-align: center;
 }
 
 .contain {
